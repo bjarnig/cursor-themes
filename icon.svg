@@ -1,0 +1,29 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="64" fill="#171b21"/>
+  
+  <!-- Geometric mineral/crystal shape with three colors representing the three themes -->
+  <!-- Bottom layer - Galena (green) -->
+  <polygon points="64,30 85,50 64,70 43,50" fill="#00a384" opacity="0.9"/>
+  
+  <!-- Middle layer - Peridot (cyan/blue) -->
+  <polygon points="64,40 95,64 64,88 33,64" fill="#00a9b9" opacity="0.8"/>
+  
+  <!-- Top layer - Rutile (darker blue) -->
+  <polygon points="64,50 80,64 64,78 48,64" fill="#4090c0" opacity="0.9"/>
+  
+  <!-- Highlight/shine effect -->
+  <polygon points="64,30 70,40 64,50 58,40" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Bottom facets -->
+  <polygon points="43,50 33,64 64,70" fill="#008070" opacity="0.6"/>
+  <polygon points="85,50 95,64 64,70" fill="#008088" opacity="0.6"/>
+  
+  <!-- Side facets for depth -->
+  <polygon points="33,64 64,88 64,70" fill="#006060" opacity="0.4"/>
+  <polygon points="95,64 64,88 64,70" fill="#006868" opacity="0.4"/>
+  
+  <!-- Letters BG in bottom -->
+  <text x="64" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#a6abb8" text-anchor="middle">BG</text>
+</svg>
+

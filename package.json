@@ -1,9 +1,10 @@
 {
-    "name": "bg-mineral-theme",
-    "displayName": "BG Mineral Themes",
-    "description": "Mineral-inspired color themes with flat UI and vibrant syntax highlighting.",
-    "version": "1.0.0",
-    "publisher": "bjarni",
+  "name": "bg-mineral-theme",
+  "displayName": "BG Mineral Themes",
+  "description": "Mineral-inspired color themes with flat UI and vibrant syntax highlighting.",
+  "version": "1.0.0",
+  "publisher": "bjarni",
+  "icon": "icon.png",
     "author": "Bjarni Guðmundsson",
     "license": "MIT",
     "repository": {
