@@ -1,0 +1,51 @@
+{
+    "name": "bg-mineral-theme",
+    "displayName": "BG Mineral Themes",
+    "description": "Mineral-inspired color themes with flat UI and vibrant syntax highlighting.",
+    "version": "1.0.0",
+    "publisher": "bjarni",
+    "author": "Bjarni Guðmundsson",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bjarnig/cursor-themes"
+    },
+    "bugs": {
+      "url": "https://github.com/bjarnig/cursor-themes/issues"
+    },
+    "homepage": "https://github.com/bjarnig/cursor-themes#readme",
+    "keywords": [
+      "theme",
+      "color-theme",
+      "mineral",
+      "peridot",
+      "rutile",
+      "galena",
+      "dark-theme"
+    ],
+    "categories": [
+      "Themes"
+    ],
+    "engines": {
+      "vscode": "^1.74.0" 
+    },
+    "contributes": {
+      "themes": [
+        {
+          "label": "BG Galena",
+          "uiTheme": "vs-dark", 
+          "path": "./themes/galena.json"
+        },
+        {
+          "label": "BG Peridot",
+          "uiTheme": "vs-dark", 
+          "path": "./themes/peridot.json"
+        },
+        {
+          "label": "BG Rutile",
+          "uiTheme": "vs-dark", 
+          "path": "./themes/rutile.json"
+        }
+      ]
+    }
+  }
