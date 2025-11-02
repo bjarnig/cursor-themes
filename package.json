@@ -1,7 +1,7 @@
 {
   "name": "bg-mineral-theme",
   "displayName": "BG Mineral Themes",
-  "description": "Mineral-inspired color themes with flat UI and vibrant syntax highlighting.",
+  "description": "Five mineral-inspired color themes with flat UI and vibrant syntax highlighting.",
   "version": "1.0.0",
   "publisher": "bjarni",
   "icon": "icon.png",
@@ -15,38 +15,50 @@
       "url": "https://github.com/bjarnig/cursor-themes/issues"
     },
     "homepage": "https://github.com/bjarnig/cursor-themes#readme",
-    "keywords": [
-      "theme",
-      "color-theme",
-      "mineral",
-      "peridot",
-      "rutile",
-      "galena",
-      "dark-theme"
-    ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "mineral",
+    "citrine",
+    "peridot",
+    "rutile",
+    "galena",
+    "kernite",
+    "dark-theme"
+  ],
     "categories": [
       "Themes"
     ],
     "engines": {
       "vscode": "^1.74.0" 
     },
-    "contributes": {
-      "themes": [
-        {
-          "label": "BG Galena",
-          "uiTheme": "vs-dark", 
-          "path": "./themes/galena.json"
-        },
-        {
-          "label": "BG Peridot",
-          "uiTheme": "vs-dark", 
-          "path": "./themes/peridot.json"
-        },
-        {
-          "label": "BG Rutile",
-          "uiTheme": "vs-dark", 
-          "path": "./themes/rutile.json"
-        }
-      ]
-    }
+  "contributes": {
+    "themes": [
+      {
+        "label": "BG Citrine",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/citrine.json"
+      },
+      {
+        "label": "BG Galena",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/galena.json"
+      },
+      {
+        "label": "BG Kernite",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/kernite.json"
+      },
+      {
+        "label": "BG Peridot",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/peridot.json"
+      },
+      {
+        "label": "BG Rutile",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/rutile.json"
+      }
+    ]
+  }
   }

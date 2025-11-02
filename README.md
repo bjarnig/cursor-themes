@@ -1,8 +1,17 @@
 # BG Mineral Themes
 
-Three color themes for VS Code and Cursor. Flat UI. Code colors inspired by minerals and ocean.
+Five color themes for VS Code and Cursor. Flat UI. Code colors inspired by minerals and ocean.
 
 ## Themes
+
+### BG Citrine
+Yellow-focused with warm tones.
+
+**Key Colors:**
+- Strings: `#dceab2`
+- Numbers: `#ffee88`
+- Types: `#a0b84a`
+- Functions: `#3daffe`
 
 ### BG Galena
 Mint greens with teal and gold.
@@ -13,14 +22,23 @@ Mint greens with teal and gold.
 - Types: `#60d8a8`
 - Functions: `#40c8a8`
 
+### BG Kernite
+Cyan-focused with cool tones.
+
+**Key Colors:**
+- Strings: `#88ddee`
+- Numbers: `#c0e8d8`
+- Types: `#5dd8c0`
+- Functions: `#5dd8c0`
+
 ### BG Peridot
-Light greens, yellows, and orange.
+Light greens, yellows, and cyan.
 
 **Key Colors:**
 - Strings: `#AAFFCC`
 - Numbers: `#FFEE88`
 - Types: `#88DDAA`
-- Functions: `#60B9E0`
+- Functions: `#5dd8c0`
 
 ### BG Rutile
 Dark with muted blues.
@@ -50,7 +68,9 @@ Search for "BG Mineral Themes" in the Extensions marketplace.
 
 1. Press `Cmd+K Cmd+T` (Mac) or `Ctrl+K Ctrl+T` (Windows/Linux)
 2. Select one of:
+   - **BG Citrine**
    - **BG Galena**
+   - **BG Kernite**
    - **BG Peridot**
    - **BG Rutile**
 
@@ -59,8 +79,8 @@ Or go to **Preferences → Color Theme** and choose your preferred theme.
 ## Features
 
 - Flat UI
-- Three themes
-- Blues, greens, and earth tones
+- Five themes
+- Blues, greens, yellows, and earth tones
 - Good contrast ratios
 
 ## Philosophy
@@ -93,9 +113,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Bjarni Guðmundsson
+Bjarni Gunnarsson
 
 ## Inspiration
 
-Named after minerals. Peridot is green. Rutile is dark. Galena is silvery.
+Named after minerals. Citrine is yellow. Galena is silvery. Kernite is colorless. Peridot is green. Rutile is dark.
 
