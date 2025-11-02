@@ -1,41 +1,35 @@
-# BG Mineral Themes 💎
+# BG Mineral Themes
 
-A collection of three beautiful, mineral-inspired color themes for VS Code and Cursor IDE. Each theme features a flat, minimal UI design with vibrant, ocean-inspired syntax highlighting.
+Three color themes for VS Code and Cursor. Flat UI. Code colors inspired by minerals and ocean.
 
 ## Themes
 
-### 🌿 BG Galena
-Fresh and natural with mint greens, teal accents, and golden tones.
-
-**Best for:** A fresh alternative with more green than blue, perfect for long coding sessions.
+### BG Galena
+Mint greens with teal and gold.
 
 **Key Colors:**
-- Strings: `#A0E8C8` (mint green)
-- Numbers: `#e8c870` (golden yellow)
-- Types: `#60d8a8` (soft green)
-- Functions: `#40c8a8` (teal)
+- Strings: `#A0E8C8`
+- Numbers: `#e8c870`
+- Types: `#60d8a8`
+- Functions: `#40c8a8`
 
-### 💚 BG Peridot
-Vibrant and colorful with light mint greens, yellows, and warm oranges.
-
-**Best for:** The most colorful and energetic option, great for variety in your code.
+### BG Peridot
+Light greens, yellows, and orange.
 
 **Key Colors:**
-- Strings: `#AAFFCC` (light mint)
-- Numbers: `#FFEE88` (light yellow)
-- Types: `#88DDAA` (soft green)
-- Functions: `#60B9E0` (ocean blue)
+- Strings: `#AAFFCC`
+- Numbers: `#FFEE88`
+- Types: `#88DDAA`
+- Functions: `#60B9E0`
 
-### 🔷 BG Rutile
-Dark and mysterious with muted blues and darker backgrounds.
-
-**Best for:** Late-night coding sessions or reduced eye strain, perfect for focus mode.
+### BG Rutile
+Dark with muted blues.
 
 **Key Colors:**
-- Strings: `#6088a0` (muted blue)
-- Numbers: `#c0b070` (muted gold)
-- Types: `#5090b0` (deep blue)
-- Functions: `#4090c0` (ocean blue)
+- Strings: `#6088a0`
+- Numbers: `#c0b070`
+- Types: `#5090b0`
+- Functions: `#4090c0`
 
 ## Installation
 
@@ -64,23 +58,14 @@ Or go to **Preferences → Color Theme** and choose your preferred theme.
 
 ## Features
 
-- ✨ **Flat UI Design**: Clean, minimal interface colors that don't distract
-- 🎨 **Vibrant Syntax**: Ocean and mineral-inspired colors for better code readability
-- 💎 **Three Variations**: Choose the mood that fits your coding session
-- 🌊 **Ocean-Inspired**: Calming blues, greens, and earth tones
-- 👀 **Eye-Friendly**: Carefully selected contrast ratios for comfortable reading
-
-## Screenshots
-
-_Coming soon_
+- Flat UI
+- Three themes
+- Blues, greens, and earth tones
+- Good contrast ratios
 
 ## Philosophy
 
-These themes are designed with the philosophy that:
-- UI elements should be subtle and flat to minimize distraction
-- Syntax highlighting should be vibrant and varied to improve code scanning
-- Nature-inspired colors create a calming coding environment
-- Multiple variations give you flexibility for different moods and times of day
+UI is flat and minimal. Code colors are distinct. Pick the theme that works for you.
 
 ## Building from Source
 
@@ -108,17 +93,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Created by **Bjarni Guðmundsson**
+Bjarni Guðmundsson
 
 ## Inspiration
 
-These themes are inspired by:
-- The calming colors of ocean minerals
-- The beautiful green peridot gemstone
-- The lustrous, metallic rutile crystal
-- The silvery, reflective galena mineral
-
----
-
-**Enjoy coding with BG Mineral Themes!** 💎✨
+Named after minerals. Peridot is green. Rutile is dark. Galena is silvery.
 
